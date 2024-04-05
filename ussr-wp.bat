@@ -1,5 +1,5 @@
 @echo off
-Set "ImageURL=hhttps://drive.google.com/file/d/1T4V91YVWPJBqy9Kbu_TL-jnovTAlNwcl/view"
+Set "ImageURL=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp6734135.jpg&f=1&nofb=1&ipt=b6c95065ea4e03aae50baefe79946e29a80c7de0cfbb4a261ccfc78bc961aa12&ipo=images"
 
 :: Using the user's Temp directory
 Set "ImagePath=%TEMP%\Wallpaper.jpg"
