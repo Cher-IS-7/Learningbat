@@ -12,4 +12,5 @@ rem Step 3: Update the wallpaper setting
 rundll32.exe user32.dll, UpdatePerUserSystemParameters
 
 endlocal
+pause
 
