@@ -11,4 +11,6 @@ systeminfo > "%DESKTOP%\%FILENAME%"
 rem Generate ipInfo.txt on the desktop
 ipconfig > "%DESKTOP%\%FILENAME%"
 
+pause
+
 
