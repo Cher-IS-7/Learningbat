@@ -7,7 +7,4 @@ set DESKTOP=%USERPROFILE%\Desktop
 rem Generate systeminfo.txt on the desktop
 systeminfo > "%DESKTOP%\%FILENAME%"
 
-) else (
-    echo Failed to generate systeminfo.txt on the desktop.
-    pause
-)
+
