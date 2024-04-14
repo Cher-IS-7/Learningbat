@@ -9,6 +9,6 @@ rem Generate systeminfo.txt on the desktop
 systeminfo > "%DESKTOP%\%FILENAME%"
 
 rem Generate ipInfo.txt on the desktop
-ipconfig > "%DESKTOP%/%FILENAME%"
+ipconfig > "%DESKTOP%\%FILENAME%"
 
 
